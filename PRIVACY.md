@@ -26,4 +26,4 @@ Users can disconnect the app from their Pinterest account at any time through Pi
 
 ## Contact
 
-For privacy questions, contact: emiliscpl@gmail.com
+For privacy questions, contact: emilisciupailaa@gmail.com
