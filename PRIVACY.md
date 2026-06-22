@@ -27,3 +27,5 @@ Users can disconnect the app from their Pinterest account at any time through Pi
 ## Contact
 
 For privacy questions, contact: emilisciupailaa@gmail.com
+
+tiktok-developers-site-verification=AhPAwFf0QT1br3QOr5Cpls4D0xltUtm6
